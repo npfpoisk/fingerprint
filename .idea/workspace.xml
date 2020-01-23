@@ -7,8 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a69a868-a0a4-4d41-87d4-8f99879319ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fingerprint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fingerprint.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/fingerprint/fingerprint.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/fingerprint/fingerprint.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/META-INF/fingerprint.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Owner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Owner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/FingerPrintProtocol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fingerprint/kap/fingerprint/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kap/fingerprint/FingerPrintLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kap/fingerprint/FingerPrintLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kap/fingerprint/FingerPrintProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kap/fingerprint/FingerPrintProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kap/fingerprint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kap/fingerprint/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WKe8nY7NtbwiLA02ZAn7KZmx8q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,13 +53,14 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/META-INF" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Library/Microsoft JDBC Driver 7.4 for SQL Server/sqljdbc_7.4/rus/mssql-jdbc-7.4.1.jre12.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -106,9 +118,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="599" y="206" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579607551565" />
-    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1579790992258">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="612" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579798673044">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="612" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579798673044" />
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579790992258" />
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579003697534" />
     <state x="694" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579674392925">
@@ -132,28 +145,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579684739027" />
-    <state x="1034" y="207" key="FileChooserDialogImpl" timestamp="1579088344732">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="827" y="164" key="FileChooserDialogImpl" timestamp="1579802300755">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="827" y="164" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579802300755" />
     <state x="1034" y="207" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579088344732" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1579789756079">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579802941389">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579802941389" />
     <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
     <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1579789756079">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579802941389">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579802941389" />
     <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
     <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1579789756079">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579802941389">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579802941389" />
     <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
     <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730207" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1579789756079">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579802941389">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579802941389" />
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
     <state width="1876" height="221" key="GridCell.Tab.1.bottom" timestamp="1579774225434">
@@ -180,9 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579003351288" />
-    <state x="444" y="184" width="1040" height="738" key="SettingsEditor" timestamp="1579674474794">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="355" y="117" width="914" height="707" key="SettingsEditor" timestamp="1579802317627">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="355" y="117" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579802317627" />
     <state x="444" y="184" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579674474794" />
     <state x="444" y="184" width="1040" height="738" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579088678850" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1578905582002">
@@ -219,9 +238,10 @@
     </state>
     <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579773232800" />
     <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578997502685" />
-    <state x="623" y="225" key="search.everywhere.popup" timestamp="1578905426611">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="498" y="178" width="672" height="678" key="search.everywhere.popup" timestamp="1579801971435">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="498" y="178" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579801971435" />
     <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578905426611" />
   </component>
   <component name="XDebuggerManager">

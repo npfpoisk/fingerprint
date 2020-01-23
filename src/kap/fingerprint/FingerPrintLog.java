@@ -107,7 +107,7 @@ public class FingerPrintLog {
     //============================================================================
     //* Работы с протоколом fpprotocol
     //****************************************************************************
-    public static void error_protocolXML(String theme, String message){
+    public static void error_fpprotocol(String theme, String message){
 
     }
 

@@ -7,23 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../libraries/jSSC-2.7.0-Release/jssc.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../libraries/Microsoft JDBC Driver 7.4 for SQL Server/sqljdbc_7.4/rus/mssql-jdbc-7.4.1.jre12.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="jssc-2.7.0" level="application" />
+    <orderEntry type="library" name="mssql-jdbc-7.4.1.jre12" level="application" />
   </component>
 </module>

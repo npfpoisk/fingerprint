@@ -16,37 +16,12 @@ public class Main {
 
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
 
-        // Получение фабрики, чтобы после получить билдер документов.
-        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
-        // Получили из фабрики билдер, который парсит XML, создает структуру Document в виде иерархического дерева.
-        DocumentBuilder builder = factory.newDocumentBuilder();
-        // Запарсили XML, создав структуру Document. Теперь у нас есть доступ ко всем элементам, каким нам нужно.
-        Document document = builder.parse(new File("\\\\10.3.9.40\\Share\\fpprotocol.xml"));
-        //
-        Element root = document.getDocumentElement();
-        NodeList parameterList = root.getElementsByTagName("Structure");
-        //
-        for (int i = 0; i < parameterList.getLength(); i++) {
-            Node struct = parameterList.item(i);
-            if (struct.getNodeType() != Node.TEXT_NODE) {
-                NamedNodeMap attributes = struct.getAttributes();
-                String name=attributes.getNamedItem("name").getNodeValue();
-                //
-                //
-                NodeList propertyList = struct.getChildNodes();
-                for(int j = 0; j < propertyList.getLength(); j++) {
-                    Node property=propertyList.item(j);
-                    if (property.getNodeType() != Node.TEXT_NODE) {
-                        attributes = property.getAttributes();
-                        name=attributes.getNamedItem("name").getNodeValue();
-                        String type=attributes.getNamedItem("type").getNodeValue();
-                        String content=property.getTextContent();
-                        //
-                        //
-                    }
-                }
-//
-            }
+        try {
+            FingerPrintProtocol fpp=new FingerPrintProtocol("C:\\Users\\User\\Documents\\Projects\\fpprotocol.xml");
+        } catch (Exception e) {
+            FingerPrintLog.error_fpprotocol("Ошибка fpprotocol",e.toString());
+            System.err.println(e.toString());
+            //e.printStackTrace();
         }
 
     }
