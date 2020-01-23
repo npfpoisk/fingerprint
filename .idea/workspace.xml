@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="fingerprint_jar:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a69a868-a0a4-4d41-87d4-8f99879319ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fingerprint_jar" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XHTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="ProjectId" id="1WKe8nY7NtbwiLA02ZAn7KZmx8q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/META-INF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programmer\Java\project\fingerprint" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="kap.fingerprint.Main" />
+      <module name="fingerprint" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a69a868-a0a4-4d41-87d4-8f99879319ce" name="Default Changelist" comment="" />
+      <created>1578902556812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578902556812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579088225788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="779" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579088225788" />
+    <state x="599" y="206" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1579607551565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="599" y="206" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579607551565" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1579790992258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579790992258" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579003697534" />
+    <state x="694" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579674392925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579674392925" />
+    <state x="694" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579087783851" />
+    <state x="734" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579612526784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579612526784" />
+    <state x="883" y="272" width="625" height="496" key="#xdebugger.XInspectDialog" timestamp="1579684336872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="883" y="272" width="625" height="496" key="#xdebugger.XInspectDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579684336872" />
+    <state x="-650" y="208" key="#xdebugger.evaluate" timestamp="1579774196439">
+      <screen x="-1920" y="-105" width="1920" height="1080" />
+    </state>
+    <state x="-650" y="208" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579774196439" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579684739027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579684739027" />
+    <state x="1034" y="207" key="FileChooserDialogImpl" timestamp="1579088344732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1034" y="207" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579088344732" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1579789756079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1579789756079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1579789756079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730207" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1579789756079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579789756079" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579082730208" />
+    <state width="1876" height="221" key="GridCell.Tab.1.bottom" timestamp="1579774225434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="221" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579774225434" />
+    <state width="1340" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579074225943" />
+    <state width="1876" height="221" key="GridCell.Tab.1.center" timestamp="1579774225434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="221" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579774225434" />
+    <state width="1340" height="279" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579074225943" />
+    <state width="1876" height="221" key="GridCell.Tab.1.left" timestamp="1579774225433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="221" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579774225433" />
+    <state width="1340" height="279" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579074225943" />
+    <state width="1876" height="221" key="GridCell.Tab.1.right" timestamp="1579774225434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="221" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579774225434" />
+    <state width="1340" height="279" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579074225943" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1579003351288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579003351288" />
+    <state x="444" y="184" width="1040" height="738" key="SettingsEditor" timestamp="1579674474794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="184" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579674474794" />
+    <state x="444" y="184" width="1040" height="738" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579088678850" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578905582002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578905582002" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1579607461783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579607461783" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579087719301" />
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578915456159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578915456159" />
+    <state x="-1734" y="178" width="1602" height="710" key="dock-window-1" timestamp="1579077876524">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1734" y="178" width="1602" height="710" key="dock-window-1/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579077876524" />
+    <state x="-1928" y="-8" width="1602" height="351" maximized="true" key="dock-window-2" timestamp="1579003984426">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1928" y="-8" width="1602" height="351" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1579003984426" />
+    <state x="342" y="139" key="new project wizard" timestamp="1579612479604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="139" key="new project wizard/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579612479604" />
+    <state x="601" y="235" width="700" height="530" key="recent.locations.popup" timestamp="1578905590201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="235" width="700" height="530" key="recent.locations.popup/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578905590201" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1579773232800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080/-1920.-105.1920.1080@0.0.1920.1040" timestamp="1579773232800" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578997502685" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1578905426611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080/-1920.0.1920.1080@0.0.1920.1040" timestamp="1578905426611" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="element.getTagName()" language="JAVA" />
+        <watch expression="element.hasChildNodes()" language="JAVA" />
+        <watch expression="element.hasChildNodes()" language="JAVA" />
+        <watch expression="node.hasChildNodes()" language="JAVA" />
+        <watch expression="node.getTextContent()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

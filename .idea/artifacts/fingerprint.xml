@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fingerprint:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fingerprint</output-path>
+    <root id="archive" name="fingerprint.jar">
+      <element id="module-output" name="fingerprint" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libraries/Microsoft JDBC Driver 7.4 for SQL Server/sqljdbc_7.4/rus/mssql-jdbc-7.4.1.jre12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../libraries/jSSC-2.7.0-Release/jssc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
