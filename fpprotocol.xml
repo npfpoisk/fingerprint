@@ -1,0 +1,20 @@
+﻿<Structures>
+    <Structure name="Владелец">
+        <Property name="Имя" type="Строка">1c/java</Property>
+        <Property name="Дата" type="Строка">20200122</Property>
+    </Structure>
+    <Structure name="Команды">
+        <Property name="Команда" type="Число">0</Property>
+		<Property name="Фаза" type="Число">0</Property>
+    </Structure>
+    <Structure name="ФизЛицо">
+        <Property name="Наименование" type="Строка">ФИО</Property>
+        <Property name="Код" type="Строка">11111</Property>
+        <Property name="Фото" type="МассивБайт"></Property>
+        <Property name="ID_субд" type="Число">0</Property>
+    </Structure>
+	 <Structure name="Ошибки">
+        <Property name="Ошибка" type="Булево">Ложь</Property>
+        <Property name="Описание" type="Строка"></Property>
+    </Structure>
+</Structures>
